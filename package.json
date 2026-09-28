@@ -1,0 +1,20 @@
+{
+  "name": "aegis-recover-pro",
+  "version": "1.0.0",
+  "description": "Enterprise 100% Data Recovery & Rescue System for Corrupted Windows PCs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "data-recovery",
+    "windows-rescue",
+    "winpe",
+    "forensics",
+    "bitlocker",
+    "zero-data-loss"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "MIT"
+}

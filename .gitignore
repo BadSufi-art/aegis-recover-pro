@@ -1,0 +1,22 @@
+# Logs & System
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Recovered Output & Runtime Certificates
+output_recovery/
+certificates/*.json
+!certificates/.gitkeep
+
+# Operating System & Temp
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# Build & Test artifacts
+test_api.js
+build/
+dist/
